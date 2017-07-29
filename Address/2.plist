@@ -1,0 +1,61 @@
+{
+	data = {
+		"sh_items" = (
+			{
+				"sh_id" = 73;
+				"sh_name" = "\U77f3\U5bb6\U5e84\U5e02";
+				"sh_parentid" = 3;
+			},
+			{
+				"sh_id" = 74;
+				"sh_name" = "\U5510\U5c71\U5e02";
+				"sh_parentid" = 3;
+			},
+			{
+				"sh_id" = 75;
+				"sh_name" = "\U79e6\U7687\U5c9b\U5e02";
+				"sh_parentid" = 3;
+			},
+			{
+				"sh_id" = 76;
+				"sh_name" = "\U90af\U90f8\U5e02";
+				"sh_parentid" = 3;
+			},
+			{
+				"sh_id" = 77;
+				"sh_name" = "\U90a2\U53f0\U5e02";
+				"sh_parentid" = 3;
+			},
+			{
+				"sh_id" = 78;
+				"sh_name" = "\U4fdd\U5b9a\U5e02";
+				"sh_parentid" = 3;
+			},
+			{
+				"sh_id" = 79;
+				"sh_name" = "\U5f20\U5bb6\U53e3\U5e02";
+				"sh_parentid" = 3;
+			},
+			{
+				"sh_id" = 80;
+				"sh_name" = "\U627f\U5fb7\U5e02";
+				"sh_parentid" = 3;
+			},
+			{
+				"sh_id" = 81;
+				"sh_name" = "\U8861\U6c34\U5e02";
+				"sh_parentid" = 3;
+			},
+			{
+				"sh_id" = 82;
+				"sh_name" = "\U5eca\U574a\U5e02";
+				"sh_parentid" = 3;
+			},
+			{
+				"sh_id" = 83;
+				"sh_name" = "\U6ca7\U5dde\U5e02";
+				"sh_parentid" = 3;
+			},
+		);
+	};
+}

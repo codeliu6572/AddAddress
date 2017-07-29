@@ -15,6 +15,13 @@
 		68EF2D911F2C6BB70020F87F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68EF2D8F1F2C6BB70020F87F /* LaunchScreen.storyboard */; };
 		68EF2D9C1F2C6BB70020F87F /* AddressTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68EF2D9B1F2C6BB70020F87F /* AddressTests.m */; };
 		68EF2DA71F2C6BB70020F87F /* AddressUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68EF2DA61F2C6BB70020F87F /* AddressUITests.m */; };
+		68EF2DBE1F2C6BD40020F87F /* 1.plist in Resources */ = {isa = PBXBuildFile; fileRef = 68EF2DB41F2C6BD40020F87F /* 1.plist */; };
+		68EF2DBF1F2C6BD40020F87F /* 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 68EF2DB51F2C6BD40020F87F /* 2.gif */; };
+		68EF2DC01F2C6BD40020F87F /* 2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 68EF2DB61F2C6BD40020F87F /* 2.plist */; };
+		68EF2DC11F2C6BD40020F87F /* 3.plist in Resources */ = {isa = PBXBuildFile; fileRef = 68EF2DB71F2C6BD40020F87F /* 3.plist */; };
+		68EF2DC21F2C6BD40020F87F /* AddressAreaModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 68EF2DB91F2C6BD40020F87F /* AddressAreaModel.m */; };
+		68EF2DC31F2C6BD40020F87F /* AddressModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 68EF2DBB1F2C6BD40020F87F /* AddressModel.m */; };
+		68EF2DC41F2C6BD40020F87F /* AreaView.m in Sources */ = {isa = PBXBuildFile; fileRef = 68EF2DBD1F2C6BD40020F87F /* AreaView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +58,16 @@
 		68EF2DA21F2C6BB70020F87F /* AddressUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AddressUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		68EF2DA61F2C6BB70020F87F /* AddressUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AddressUITests.m; sourceTree = "<group>"; };
 		68EF2DA81F2C6BB70020F87F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		68EF2DB41F2C6BD40020F87F /* 1.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = 1.plist; sourceTree = "<group>"; };
+		68EF2DB51F2C6BD40020F87F /* 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 2.gif; sourceTree = "<group>"; };
+		68EF2DB61F2C6BD40020F87F /* 2.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = 2.plist; sourceTree = "<group>"; };
+		68EF2DB71F2C6BD40020F87F /* 3.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = 3.plist; sourceTree = "<group>"; };
+		68EF2DB81F2C6BD40020F87F /* AddressAreaModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddressAreaModel.h; sourceTree = "<group>"; };
+		68EF2DB91F2C6BD40020F87F /* AddressAreaModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddressAreaModel.m; sourceTree = "<group>"; };
+		68EF2DBA1F2C6BD40020F87F /* AddressModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddressModel.h; sourceTree = "<group>"; };
+		68EF2DBB1F2C6BD40020F87F /* AddressModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddressModel.m; sourceTree = "<group>"; };
+		68EF2DBC1F2C6BD40020F87F /* AreaView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AreaView.h; sourceTree = "<group>"; };
+		68EF2DBD1F2C6BD40020F87F /* AreaView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AreaView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +122,16 @@
 				68EF2D851F2C6BB70020F87F /* AppDelegate.m */,
 				68EF2D871F2C6BB70020F87F /* ViewController.h */,
 				68EF2D881F2C6BB70020F87F /* ViewController.m */,
+				68EF2DB51F2C6BD40020F87F /* 2.gif */,
+				68EF2DB41F2C6BD40020F87F /* 1.plist */,
+				68EF2DB61F2C6BD40020F87F /* 2.plist */,
+				68EF2DB71F2C6BD40020F87F /* 3.plist */,
+				68EF2DB81F2C6BD40020F87F /* AddressAreaModel.h */,
+				68EF2DB91F2C6BD40020F87F /* AddressAreaModel.m */,
+				68EF2DBA1F2C6BD40020F87F /* AddressModel.h */,
+				68EF2DBB1F2C6BD40020F87F /* AddressModel.m */,
+				68EF2DBC1F2C6BD40020F87F /* AreaView.h */,
+				68EF2DBD1F2C6BD40020F87F /* AreaView.m */,
 				68EF2D8A1F2C6BB70020F87F /* Main.storyboard */,
 				68EF2D8D1F2C6BB70020F87F /* Assets.xcassets */,
 				68EF2D8F1F2C6BB70020F87F /* LaunchScreen.storyboard */,
@@ -250,8 +277,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				68EF2D911F2C6BB70020F87F /* LaunchScreen.storyboard in Resources */,
+				68EF2DBF1F2C6BD40020F87F /* 2.gif in Resources */,
 				68EF2D8E1F2C6BB70020F87F /* Assets.xcassets in Resources */,
+				68EF2DC01F2C6BD40020F87F /* 2.plist in Resources */,
+				68EF2DBE1F2C6BD40020F87F /* 1.plist in Resources */,
 				68EF2D8C1F2C6BB70020F87F /* Main.storyboard in Resources */,
+				68EF2DC11F2C6BD40020F87F /* 3.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,7 +307,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68EF2DC31F2C6BD40020F87F /* AddressModel.m in Sources */,
 				68EF2D891F2C6BB70020F87F /* ViewController.m in Sources */,
+				68EF2DC21F2C6BD40020F87F /* AddressAreaModel.m in Sources */,
+				68EF2DC41F2C6BD40020F87F /* AreaView.m in Sources */,
 				68EF2D861F2C6BB70020F87F /* AppDelegate.m in Sources */,
 				68EF2D831F2C6BB70020F87F /* main.m in Sources */,
 			);

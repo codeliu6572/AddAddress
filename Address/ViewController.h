@@ -7,8 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface ViewController : UIViewController
+#import "AreaView.h"
+@interface ViewController : UIViewController<AreaSelectDelegate>
 
 
 @end
